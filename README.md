@@ -4,7 +4,11 @@
 - 🌱 estudando PHP
 - 😄 Pronouns: ele/dele
 
-
+<div align="center">
+  <a href="https://github.com/higorldmoreira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorldmoreira&show_icons=true&theme=github_dark&include_all_commits=true">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorldmoreira&layout=compact&theme=github_dark"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Higor-HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
