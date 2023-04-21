@@ -1,8 +1,6 @@
 ### Olá! Sou Higor Moreira
 
-- 🔭 Hoje trabalho com Full Stack
-- 🌱 estudando PHP
-- 😄 Pronouns: ele/dele
+- 🔭 Estudante de Programação
 
 <div align="center">
   <a href="https://github.com/higorldmoreira">
